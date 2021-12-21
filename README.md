@@ -1,2 +1,3 @@
 # DSP-Book
-DSP-Book Matlab/Python Edition
+
+Matlab/Python Edition
