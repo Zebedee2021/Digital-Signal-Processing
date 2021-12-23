@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/Zebedee2021/DSP-Book/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+你可以点击[《数字信号处理》 GitBook电子教材](https://zhiguo-zhou.gitbook.io/dsp/)进入学习。
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
