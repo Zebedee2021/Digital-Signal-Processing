@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+## 数字信号处理 Matlab/Python 双语仿真对照版本
 
 You can use the [editor on GitHub](https://github.com/Zebedee2021/DSP-Book/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 你可以点击[《数字信号处理》 GitBook电子教材](https://zhiguo-zhou.gitbook.io/dsp/)进入学习。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### 学习思路
+
+### 内容目录
 
 ### Markdown
 
@@ -33,6 +37,12 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zebedee2021/DSP-Book/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### 致谢
+
+### 联系方式
+* 周治国
+* zhiguozhou@bit.edu.cn
 
 ### Support or Contact
 
