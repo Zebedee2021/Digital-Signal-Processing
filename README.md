@@ -1,2 +1,2 @@
 # DSP-Book
-DSP-Book Matlab/Python Edition
+DSP-Book Matlab/Python 双语Edition
