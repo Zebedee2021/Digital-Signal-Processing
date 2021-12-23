@@ -1,6 +1,6 @@
 # DSP-Book
 
-## Matlab/Python Edition
+## Matlab/Python 双语言版本
 
 ### 目录
 
