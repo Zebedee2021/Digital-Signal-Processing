@@ -1,6 +1,6 @@
 # 数字信号处理
 
-## Matlab/Python Edition
+## Matlab/Python 双语言版本
 
 ### 前言
 
