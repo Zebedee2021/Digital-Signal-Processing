@@ -7,7 +7,7 @@ GitHub使用技巧
 参考：
 https://zhuanlan.zhihu.com/p/636418854
 https://ericclose.github.io/git-proxy-config.html
-
+https://gist.github.com/laispace/666dd7b27e9116faece6
 
 （1）仅为 github 设置代理 (推荐)
 如下设置仅在使用 GitHub 时会走本机代理，使用其他平台如 Gitee 时就可以直连
