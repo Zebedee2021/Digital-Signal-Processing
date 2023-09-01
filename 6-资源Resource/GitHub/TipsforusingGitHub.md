@@ -2,7 +2,7 @@ GitHub使用技巧
 
 ##### 一、 解决 Github port 443 : Timed out
 
-修订：2023.8.31 22：00
+修订：2023.9.1 09：00
 
 参考：
 https://zhuanlan.zhihu.com/p/636418854
