@@ -40,3 +40,7 @@ git config --global --get https.proxy \
 git config --global --unset http.https://github.com.proxy \
 git config --global --unset http.proxy
 
+
+git config --global http.proxy #查看git的http代理配置 \
+git config --global https.proxy #查看git的https代理配置 \
+git config --global -l #查看git的所有配置
