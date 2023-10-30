@@ -1,49 +1,22 @@
-## 数字信号处理 Matlab/Python 双语仿真对照版本
-
-You can use the [editor on GitHub](https://github.com/Zebedee2021/DSP-Book/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 数字信号处理
+### Matlab/Python 双语仿真对照版本
 
 你可以点击[《数字信号处理》 GitBook电子教材](https://zhiguo-zhou.gitbook.io/dsp/)进入学习。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### 学习思路
-
 ### 内容目录
+第1章是数字信号处理概述，介绍数字信号和系统概念，数字信号处理流程和优点，及数字信号处理软件MATLAB。
 
-### Markdown
+第2章是离散时间信号和系统分析基础，包括：连续时间信号的采样与采样定理；连续时间信号的采样内插公式；离散时间信号的表示及运算规则；离散时间线性非时变系统；离散时间信号和系统的频域分析；离散时间傅里叶变换；Z变换及其性质。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+第3章是离散傅里叶变换(DFT)，包括：傅里叶变换的四种形式；离散傅里叶级数(DFS)及离散傅里叶级数的主要性质； 离散傅里叶变换(DFT)变换的定义及性质；频率采样；用DFT对连续时间信号逼近的问题；加权技术与窗函数。离散傅里叶变换是数字信号处理两大核心内容之一，本书对其理论、性质、特点等都作了深入论述。
 
-```markdown
-Syntax highlighted code block
+第4章是快速傅里叶变换(FFT)，包括：FFT算法的基本思想；基2按时间抽取(DIT)的FFT算法：算法原理、结构与特点；基2按频率抽取(DIF)的FFT算法：算法原理、结构与特点；N为复合数的FFT算法—统一的FFT算法；基4分裂基FFT算法；实序列FFT算法；线性调频Z变换；FFT的应用。
 
-# Header 1
-## Header 2
-### Header 3
+第5章是数字滤波器，包括：无限长单位脉冲响应(IIR)、有限长单位脉冲响应(FIR)数字滤波器的结构；采用常用模拟低通滤波器进行IIR数字滤波器设计；采用脉冲响应不变变换法和双线性变换法从模拟滤波器设计数字滤波器；从模拟低通滤波器设计数字低通滤波器；IIR数字高通/带通/带阻滤波器的频率变换设计；线性相位FIR数字滤波器的特点；FIR数字滤波器的窗函数设计法和频率采样设计法。
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zebedee2021/DSP-Book/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### 致谢
 
 ### 联系方式
 * 周治国
 * zhiguozhou@bit.edu.cn
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
