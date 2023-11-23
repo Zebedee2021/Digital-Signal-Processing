@@ -26,6 +26,7 @@ function [Hr,w,a,L] = Hr_Type1(h);
 
  n = [0:1:L];              % (L+1)x1 column vector
 
- w = [0:1:500]'*pi/500;
+ w = [0:1:500]'*2*pi/500;
+ % w = [0:1:500]'*pi/500; 2023.11.21
 
 Hr = cos(w*n)*a';
